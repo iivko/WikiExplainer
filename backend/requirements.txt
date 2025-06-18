@@ -1,0 +1,12 @@
+Django
+djangorestframework
+psycopg2
+django-cors-headers
+requests
+langchain
+langchain_core
+langchain-community
+langchain-tavily
+langchain-ollama
+ollama
+python-dotenv
