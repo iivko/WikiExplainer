@@ -10,7 +10,7 @@
 
 Built with **React + TailwindCSS**, the frontend provides a clean and user-friendly interface:
 
-![WikiExplainer UI](./images/screenshot.png)
+![WikiExplainer UI](./images/Screenshot.png)
 
 ---
 
